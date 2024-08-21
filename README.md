@@ -6,20 +6,25 @@ This is a data analysis project on the National Basketball Association (NBA) usi
 
 # Requirements
 
-## The following packages are required to run the code in this repository:
+The following packages are required to run the code in this repository:
 
 -pandas
+
 -numpy
+
 -matplotlib
+
 -seaborn
 
 # Notebook
 
 The repository contains a Jupyter Notebook (nba_data_analysis.ipynb) that contains the code and visualizations for this project. The notebook is divided into several sections:
 
-*Data Cleaning and Preprocessing
-*Exploratory Data Analysis
-*Data Visualization
+* Data Cleaning and Preprocessing
+  
+* Exploratory Data Analysis
+  
+* Data Visualization
 
 # Conclusion
 
